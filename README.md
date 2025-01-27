@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Vader51/VADER51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Vader**, a passionate student in **Technological Entrepreneurship and Management (TEM)**. My focus is on blending technology with innovative business solutions, and I'm excited about building projects that make a difference.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Currently studying **Technological Entrepreneurship and Management**
+- 💻 Interests: Coding, sneaker technology, cars, and gaming
+- 🌱 I’m currently learning **How To Code**
+- 🏆 Future Goal: To become a **tech entrepreneur** and create impactful innovations
+
+---
+
+## 🔧 My Skills
+- **Skills**: Sneaker customization, problem-solving, and team collaboration an many more!
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn] if i had one lol 
+
